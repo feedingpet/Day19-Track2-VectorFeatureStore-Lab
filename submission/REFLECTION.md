@@ -20,11 +20,10 @@ Hybrid được ưa chuộng trong hầu hết các trường hợp, trừ khi d
 
 ## Điều ngạc nhiên nhất khi làm lab này
 
-_(Optional, 1–2 câu)_
+Điều ngạc nhiên nhất là sự ảnh hưởng lớn của khối lượng và tính đặc thù của dữ liệu đến hiệu năng tìm kiếm, đòi hỏi phải tinh chỉnh cẩn thận các thông số để tối ưu.
 
 ---
 
 ## Bonus challenge
 
-- [ ] Đã làm bonus (xem `bonus/`)
-- [ ] Pair work với: _<tên đồng đội nếu có>_
+- [x] Đã làm bonus (xem `bonus/`)
